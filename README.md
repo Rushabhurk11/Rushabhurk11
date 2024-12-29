@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Rushabh Urkude!  
 
-<!--
-**Rushabhurk11/Rushabhurk11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+🎓 **Bachelor of Technology in Computer Science and Engineering**  
+👨‍💻 Passionate **Web Designer** and **Python Developer**  
+🤖 Enthusiastic about **AI** and **Data Visualization**  
 
-Here are some ideas to get you started:
+I enjoy creating user-centric web applications, developing data-driven solutions, and exploring the latest trends in technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills  
+- **Languages**: Python, SQL, HTML, CSS, JavaScript  
+- **Frameworks/Tools**: Power BI, VS Code, PyCharm  
+- **Domains**: Web Design, Web Developer   
+
+### 🌟 Featured Projects  
+- **[AI-Based Phishing website detection](#)**: Built an ML model to predict Phishing URL's using Python.  
+- **[Portfolio Website](#)**: A responsive portfolio showcasing my projects and skills using HTML, CSS, and JavaScript.  
+ 
+
+### 📊 GitHub Analytics  
+![Rushabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rushabhurk11&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushabhurk11&layout=compact&theme=radical)  
+![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Rushabhurk11&theme=radical)  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rushabhurk11&color=blue)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rushabhurk11&theme=radical)  
+
+### 💡 Let's Connect!  
+📧 **Email**: [rushabhurkude11@gmail.com](mailto:rushabhurkude11@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/rushabh-urkude]((https://www.linkedin.com/in/rushabh-urkude/))  
+🌐 **Portfolio**: [rushabhportfolio.com](#)
