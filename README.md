@@ -23,9 +23,9 @@ I enjoy creating user-centric web applications, developing data-driven solutions
 ![GitHub Streak Stats](https://streak-stats.demolab.com/?user=Rushabhurk11&theme=radical)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rushabhurk11&color=blue)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rushabhurk11&theme=radical)  
+username=Rushabhurk11&theme=radical)  
 
 ### 💡 Let's Connect!  
-📧 **Email**: [rushabhurkude11@gmail.com](mailto:rushabhurkude11@gmail.com)  
+📧 **Email**: [rushabhurkude1192@gmail.com](mailto:rushabhurkude1192@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/rushabh-urkude]((https://www.linkedin.com/in/rushabh-urkude/))  
 🌐 **Portfolio**: [rushabhportfolio.com](#)
