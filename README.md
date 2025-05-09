@@ -13,8 +13,8 @@ I enjoy creating user-centric web applications, developing data-driven solutions
 - **Domains**: Web Design, Web Developer   
 
 ### 🌟 Featured Projects  
-- **[AI-Based Phishing website detection](https://github.com/Rushabhurk11/Guardian-Shield-Advance-Phishing-Detection)**: Built an ML model to predict Phishing URL's using Python.  
-- **[Portfolio Website](#)**: A responsive portfolio showcasing my projects and skills using HTML, CSS, and JavaScript.  
+- **[ML Phishing website detection](https://github.com/Rushabhurk11/Guardian-Shield-Advance-Phishing-Detection)**: Built an ML model to predict Phishing URL's using Python.  
+- **[AI Assistant](https://github.com/Rushabhurk11/Assistant)**: A Personal AI Assistant which helps to do some simple tasks with voice comands .  
  
 
 ### 📊 GitHub Analytics  
