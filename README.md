@@ -10,7 +10,7 @@ I enjoy creating user-centric web applications, developing data-driven solutions
 ### 🛠️ Skills  
 - **Languages**: Python, SQL, HTML, CSS, JavaScript  
 - **Frameworks/Tools**: Power BI, VS Code, PyCharm  
-- **Domains**: Web Design, Web Developer   
+- **Domains**: Web Design, Web Developer, Python Developer   
 
 ### 🌟 Featured Projects  
 - **[ML Phishing website detection](https://github.com/Rushabhurk11/Guardian-Shield-Advance-Phishing-Detection)**: Built an ML model to predict Phishing URL's using Python.  
@@ -28,4 +28,4 @@ username=Rushabhurk11&theme=radical)
 ### 💡 Let's Connect!  
 📧 **Email**: [rushabhurkude1192@gmail.com](mailto:rushabhurkude1192@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/rushabh-urkude]((https://www.linkedin.com/in/rushabh-urkude/))  
-🌐 **Portfolio**: [rushabhportfolio.com](#)
+🌐 **Portfolio**: [](#)
